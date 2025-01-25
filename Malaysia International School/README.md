@@ -151,7 +151,7 @@ This term structure is similar to the system used in India, where fees are usual
 
 ## 3. Payment Model
 
-- The fees are generally **paid monthly**, which means parents are required to pay on a monthly basis based on the school’s fee schedule.
+- The fees are generally **paid monthly** or **Term**, which means parents are required to pay on a monthly basis based on the school’s fee schedule.
 - The payment will be adjusted according to the class level your child is in.
 - For premium schools, the monthly fee can be higher due to additional facilities and resources.
 
