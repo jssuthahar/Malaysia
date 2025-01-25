@@ -76,6 +76,55 @@ Choosing the right school for your child is crucial! Here’s what to consider:
 ✅ **Community**: Choose a school that aligns with your family’s values.  
 ✅ **Visit the School**: Go to the school’s website and find their WhatsApp number. Reach out to request information about their **Open Day**. Schools usually invite families to visit with their children, allowing you to explore the environment, interact with staff, and decide if it’s the right fit. You can also discuss and negotiate tuition fees during your visit.  
 
+# International School Academic Calendar in Malaysia
+
+This document provides an overview of the academic year start and end months for different international school curricula followed in Malaysia.
+
+## 1. British Curriculum (IGCSE)
+- **Start**: September (Some schools may start in January, but September is more common)
+- **End**: July
+- **Breaks**: Christmas, Easter, and summer breaks.
+
+### Overview:
+British schools generally follow the academic year from **September** to **July**, with breaks during the Christmas and Easter holidays, and a long summer break.
+
+---
+
+## 2. American Curriculum
+- **Start**: August or September
+- **End**: May or June
+- **Breaks**: Summer break from June to August.
+
+### Overview:
+American schools typically start in **August** or **September** and finish in **May** or **June**, with a summer break during the months of **June to August**.
+
+---
+
+## 3. Australian Curriculum
+- **Start**: January
+- **End**: December
+- **Breaks**: Mid-year break (June-July), Summer break (December-January).
+
+### Overview:
+The Australian academic year runs from **January** to **December**, with breaks in the middle of the year (June-July) and a long summer break from **December** to **January**.
+
+---
+
+## 4. Indian Curriculum (CBSE or ICSE)
+- **Start**: April
+- **End**: March
+- **Breaks**: Summer vacation in May and June.
+
+### Overview:
+Indian curriculum schools generally start in **April** and end in **March**, with a summer vacation typically during **May and June**.
+
+---
+
+## Notes:
+- The start and end months mentioned above are typical and may vary slightly depending on the school.
+- Always check with the specific school for their exact academic calendar.
+
+
 ---
 
 ## 🚀 How to Contribute
