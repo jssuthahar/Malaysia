@@ -124,6 +124,51 @@ Indian curriculum schools generally start in **April** and end in **March**, wit
 - The start and end months mentioned above are typical and may vary slightly depending on the school.
 - Always check with the specific school for their exact academic calendar.
 
+# School Fees Structure in Malaysia
+
+This document outlines the general school fees structure for international schools in Malaysia. The fees depend on the grade, month of enrollment, and the type of school chosen. 
+
+## 1. Overview of School Fees in Malaysia
+
+In Malaysia, school fees are typically determined by:
+- **Grade Level**: Different grades or levels of education may have different fee structures.
+- **Month of Enrollment**: Fees may be adjusted depending on the month your child enrolls.
+- **School Type**: Premium schools generally charge higher fees than regular institutions.
+
+### Common Fee Range:
+- **Standard Fee**: Between **2000 RM to 3000 RM** per month.
+- **Premium Schools**: If you opt for a premium school, the fee may rise to **3000 RM per month**.
+- **Regular Schools**: For standard schools, the fee is generally around **2000 RM per month**.
+
+## 2. Term Structure
+
+The academic year in Malaysian schools is typically divided into **three terms**:
+- **Term 1**
+- **Term 2**
+- **Term 3**
+
+This term structure is similar to the system used in India, where fees are usually split into two installments (half-yearly).
+
+## 3. Payment Model
+
+- The fees are generally **paid monthly**, which means parents are required to pay on a monthly basis based on the school’s fee schedule.
+- The payment will be adjusted according to the class level your child is in.
+- For premium schools, the monthly fee can be higher due to additional facilities and resources.
+
+## 4. Example Fee Breakdown
+
+- **Standard School**: 
+  - Monthly Fees: **2000 RM**
+  - Three Terms in a Year: **Term 1, Term 2, Term 3**
+
+- **Premium School**: 
+  - Monthly Fees: **3000 RM**
+  - Three Terms in a Year: **Term 1, Term 2, Term 3**
+
+## 5. Conclusion
+
+In Malaysia, school fees are flexible based on the grade level and school type. It is important to research and choose a school that fits your budget and your child's educational needs. Make sure to check with the individual school for the exact fee structure and payment details.
+
 
 ---
 
