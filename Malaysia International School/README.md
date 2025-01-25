@@ -1,5 +1,3 @@
-
-```markdown
 # 🌏 Malaysia International Schools Repository
 
 Welcome to the **Malaysia International Schools Repository**! This repository contains a comprehensive list of international schools in Malaysia, grouped by curriculum, along with key details to help parents, educators, and contributors. 🏫📚
@@ -121,4 +119,3 @@ We welcome contributions to keep this repository up-to-date! Here’s how:
 
 ### Thank you for your contributions! 🙌  
 Together, we can make this the most reliable source for international school information in Malaysia. 🌏✨
-```
