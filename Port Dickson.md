@@ -36,6 +36,24 @@ One of the fascinating natural phenomena in PD is that after sunset, the sea rec
 
 📌 **Visit early to avoid the heat!** ☀️
 
+## 🚗 **How to Reach Port Dickson**
+
+Port Dickson is well-connected and easily accessible by different modes of transport:
+
+- **🚗 By Car:**
+  - From **Kuala Lumpur**: Approx. 1.5-hour drive via the **North-South Expressway (E2)** and **Seremban-Port Dickson Highway (E29)**.
+  - From **Singapore**: Around a **4-hour drive**, taking the **North-South Expressway (E2)**.
+
+- **🚌 By Bus:**
+  - Regular buses from **TBS (Terminal Bersepadu Selatan)** in Kuala Lumpur to **Port Dickson Bus Terminal**.
+  - From the bus terminal, take a Grab/taxi to your destination.
+
+- **🚆 By Train:**
+  - Take the **KTM Komuter** from KL Sentral to **Seremban**.
+  - From Seremban, take a **bus or Grab** to Port Dickson.
+
+📌 **Pro Tip:** Renting a car or taking a Grab is the easiest way to explore PD!
+
 ## 🌅 **Port Dickson Tide Timings (Example - Feb 15, 2025)**
 
 - **Low Tide:** 3:01 AM (0.43m) & 2:59 PM (0.4m)
