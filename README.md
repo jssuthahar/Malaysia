@@ -23,7 +23,7 @@
 
 ## Contribute
 If you love our content and want to support us, consider contributing:
-- **[Fork the project](https://github.com/NikiandBhaviVlog)** to suggest improvements.
-- **[Star this repository](https://github.com/NikiandBhaviVlog)** to show your support.
+- **[Fork the project](https://github.com/Malaysia)** to suggest improvements.
+- **[Star this repository](https://github.com/Malaysia)** to show your support.
 - **Submit issues or suggestions** to help us improve.
 
