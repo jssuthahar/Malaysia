@@ -69,4 +69,3 @@ The journey with **Shankar Family, Selva Family, Suthahar Family, and Vidhya Fam
 **Unforgettable moments, pure joy in sight!** 😊✨\
 Why wait? It’s a great place for a one or two-day stay,\
 Hope this guide helps you explore the way! 🎥🏝️
-
