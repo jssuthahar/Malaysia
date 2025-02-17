@@ -15,8 +15,8 @@
 - Be part of a growing Tamil-speaking community.
 
 ## Connect With Us
-- **YouTube**: [Niki and Bhavi Vlog](https://www.youtube.com/)
-- **Instagram**: [@nikiandbhavi](https://www.instagram.com/)
+- **YouTube**: [Niki and Bhavi Vlog](https://www.youtube.com/@NikiandBhavi)
+- **Instagram**: [@nikiandbhavi](https://www.instagram.com/nikiandbhavi/)
 - **Facebook**: [Niki and Bhavi Vlog](https://www.facebook.com/)
 
 📢 **Don't forget to like, share, and subscribe!** 🎥🔥
