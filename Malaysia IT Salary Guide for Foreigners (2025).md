@@ -1,27 +1,25 @@
 # Malaysia IT Salary Guide for Foreigners (2025)
 
-> **Exchange Rate (as of March 8, 2025):** 1 MYR = 19.75 INR
-
 This document provides an overview of IT salaries in Malaysia for expatriates based on their visa category. Salaries vary depending on job role, experience, and visa type.
 
 ## Employment Pass Categories & Salary Requirements
 
 ### 1. Employment Pass Category I
-- **Minimum Monthly Salary:** RM10,000 or more (Approx. ₹197,500+ INR)
+- **Minimum Monthly Salary:** RM10,000 or more
 - **Eligible Positions:** Top-level management or specialized roles
 - **Contract Duration:** Up to 5 years
 - **Renewability:** Yes
 - **Dependents:** Allowed to bring dependents and hire a foreign domestic helper
 
 ### 2. Employment Pass Category II
-- **Monthly Salary Range:** RM5,000 to RM9,999 (Approx. ₹98,750 – ₹197,450 INR)
+- **Monthly Salary Range:** RM5,000 to RM9,999
 - **Eligible Positions:** Managerial or professional roles
 - **Contract Duration:** Up to 2 years
 - **Renewability:** Yes
 - **Dependents:** Allowed to bring dependents and hire a foreign domestic helper
 
 ### 3. Employment Pass Category III
-- **Monthly Salary Range:** RM3,000 to RM4,999 (Approx. ₹59,250 – ₹98,725 INR)
+- **Monthly Salary Range:** RM3,000 to RM4,999
 - **Eligible Positions:** Technical or support-level roles
 - **Contract Duration:** Up to 2 years
 - **Renewability:** Limited to two renewals
@@ -33,16 +31,16 @@ This document provides an overview of IT salaries in Malaysia for expatriates ba
 
 | Job Role                | 0-2 Years Experience | 3-5 Years Experience | 5+ Years Experience |
 |-------------------------|---------------------|---------------------|---------------------|
-| Software Engineer      | RM3,000 – RM5,000 (₹59,250 – ₹98,750)  | RM6,000 – RM10,000 (₹118,500 – ₹197,500)  | RM10,000 – RM15,000 (₹197,500 – ₹296,250) |
-| IT Manager            | -                   | RM8,000 – RM12,000 (₹158,000 – ₹237,000)  | RM10,000 – RM18,000 (₹197,500 – ₹355,500) |
-| CIO (Chief Info Officer) | -                   | -                   | RM25,000 – RM40,000 (₹493,750 – ₹790,000) |
-| Network Engineer      | RM3,000 – RM5,000 (₹59,250 – ₹98,750)  | RM5,000 – RM8,000 (₹98,750 – ₹158,000)  | RM8,000 – RM12,000 (₹158,000 – ₹237,000)  |
-| Data Scientist        | RM5,500 – RM7,000 (₹108,625 – ₹138,250)  | RM7,500 – RM10,000 (₹148,125 – ₹197,500)  | RM10,000 – RM15,000 (₹197,500 – ₹296,250) |
-| Backend Developer     | RM4,500 – RM6,500 (₹88,875 – ₹128,375)  | RM6,500 – RM9,500 (₹128,375 – ₹187,625)  | RM10,000 – RM15,000 (₹197,500 – ₹296,250) |
-| Frontend Developer    | RM4,000 – RM5,500 (₹79,000 – ₹108,625)  | RM6,000 – RM8,000 (₹118,500 – ₹158,000)  | RM9,000 – RM12,000 (₹177,750 – ₹237,000)  |
-| Full Stack Developer  | RM4,500 – RM6,500 (₹88,875 – ₹128,375)  | RM6,500 – RM9,000 (₹128,375 – ₹177,750)  | RM10,000 – RM14,000 (₹197,500 – ₹276,500) |
-| IT Project Manager    | -                   | RM8,500 – RM10,500 (₹167,875 – ₹207,375)  | RM11,000 – RM15,000 (₹217,250 – ₹296,250) |
-| Software Architect    | -                   | RM11,000 – RM14,000 (₹217,250 – ₹276,500) | RM15,000 – RM20,000 (₹296,250 – ₹395,000) |
+| Software Engineer      | RM3,000 – RM5,000   | RM6,000 – RM10,000  | RM10,000 – RM15,000 |
+| IT Manager            | -                   | RM8,000 – RM12,000  | RM10,000 – RM18,000 |
+| CIO (Chief Info Officer) | -                   | -                   | RM25,000 – RM40,000 |
+| Network Engineer      | RM3,000 – RM5,000   | RM5,000 – RM8,000   | RM8,000 – RM12,000  |
+| Data Scientist        | RM5,500 – RM7,000   | RM7,500 – RM10,000  | RM10,000 – RM15,000 |
+| Backend Developer     | RM4,500 – RM6,500   | RM6,500 – RM9,500   | RM10,000 – RM15,000 |
+| Frontend Developer    | RM4,000 – RM5,500   | RM6,000 – RM8,000   | RM9,000 – RM12,000  |
+| Full Stack Developer  | RM4,500 – RM6,500   | RM6,500 – RM9,000   | RM10,000 – RM14,000 |
+| IT Project Manager    | -                   | RM8,500 – RM10,500  | RM11,000 – RM15,000 |
+| Software Architect    | -                   | RM11,000 – RM14,000 | RM15,000 – RM20,000 |
 
 ## Decision-Making Factors for Expatriates
 
