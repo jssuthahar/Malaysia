@@ -7,10 +7,6 @@ This document provides an overview of IT salaries in Malaysia for expatriates ba
 [![YouTube Video](https://img.shields.io/badge/YouTube-Play-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=x9ZoZX85tOg)
 
 
-[![Watch the video](https://img.youtube.com/vi/x9ZoZX85tOg/0.jpg)](https://www.youtube.com/watch?v=x9ZoZX85tOg)
-
-
-
 ## Employment Pass Categories & Salary Requirements
 
 ### 1. Employment Pass Category I
@@ -88,6 +84,8 @@ The salaries mentioned are approximate and may vary based on company, location, 
 
 ## Support
 If you found this guide useful, please **Star** and **Follow** this repository on GitHub!
+
+[![Watch the video](https://img.youtube.com/vi/x9ZoZX85tOg/0.jpg)](https://www.youtube.com/watch?v=x9ZoZX85tOg)
 
  ## Connect with Me
 - **LinkedIn**: [Suthahar Jeganathan](https://www.linkedin.com/in/jssuthahar/)
