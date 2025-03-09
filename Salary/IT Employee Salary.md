@@ -4,6 +4,9 @@
 
 This document provides an overview of IT salaries in Malaysia for expatriates based on their visa category. Salaries vary depending on job role, experience, and visa type.
 
+[![YouTube Video](https://img.shields.io/badge/YouTube-Play-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=x9ZoZX85tOg)
+
+
 ## Employment Pass Categories & Salary Requirements
 
 ### 1. Employment Pass Category I
