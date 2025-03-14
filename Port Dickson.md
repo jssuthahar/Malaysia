@@ -69,3 +69,22 @@ The journey with **Shankar Family, Selva Family, Suthahar Family, and Vidhya Fam
 **Unforgettable moments, pure joy in sight!** 😊✨\
 Why wait? It’s a great place for a one or two-day stay,\
 Hope this guide helps you explore the way! 🎥🏝️
+
+### 🌟 Stay Connected & Support Us!
+
+- ⭐ **[GitHub - Follow & Star!](https://github.com/)**
+- 🎥 **[Subscribe to Niki Bhavi Malaysia Tamil Vlog](https://www.youtube.com/@NikiandBhavi)**
+- 📷 **[Follow on Instagram](https://www.instagram.com/nikiandbhavi/)**
+- 📅 **[Book an Appointment](https://topmate.io/jssuthahar/711026?coupon_code=youtube)**
+- 📝 **[Read the Blog - Malaysia Tamil Bro](https://malaysiatamilbro.blogspot.com/)**
+- 📲 **[Join WhatsApp Channel](https://whatsapp.com/channel/0029VaAyhBS6rsQuujk5G53h)**
+- 🔗 **Other Details:**
+  - 💼 **[LinkedIn - Suthahar Jeganathan](https://www.linkedin.com/in/jssuthahar/)**
+  - 📺 **[YouTube - MSDEVBUILD](https://www.youtube.com/@MSDEVBUILD)**
+  - 📺 **[YouTube Tamil - MSDEVBUILD TAMIL](https://www.youtube.com/@MSDEVBUILDTamil)**
+  - 🖥️ **[MSDEVBUILD Blog](https://www.msdevbuild.com/)**
+  - 📲 **[Follow WhatsApp Channel](https://www.whatsapp.com/channel/0029Va5j2rHEFeXcTlUhQB0J)**
+
+**Best of luck with your job search! 🚀**
+
+
