@@ -1,6 +1,7 @@
 # Job Search Guide for Malaysia
 
 ## Hiring Process in Malaysia
+
 - Malaysian companies prioritize hiring **local candidates** (Malaysians).
 - If they are unable to find a suitable local candidate, **they may consider hiring foreigners**.
 - Jobs are usually posted on various job portals such as:
@@ -8,8 +9,11 @@
   - **JobStreet** ([https://www.jobstreet.com.my](https://www.jobstreet.com.my))
   - **Monster** ([https://www.monster.com.my](https://www.monster.com.my))
   - **MyFutureJobs** ([https://www.myfuturejobs.gov.my](https://www.myfuturejobs.gov.my))
+- 📺 **Watch this video for a detailed explanation of the hiring process in Malaysia:**
+  - [How to Get a Job in Malaysia?](https://www.youtube.com/watch?v=eMGC7nksdXc)
 
 ## Resume Preparation
+
 - Prepare a **one-page resume** as per **international standards**.
 - Highlight **skills, experience, and achievements concisely**.
 - Use a **clean and professional format**.
@@ -17,6 +21,7 @@
 - Keep it simple, clear, and easy to read.
 
 ## Salary Expectations
+
 - In **India**, salaries are often quoted in **lakhs per annum**.
 - In **Malaysia**, salaries are **mostly quoted in thousands per month**.
 - Example:
@@ -25,6 +30,7 @@
 - Always **ask for a reasonable salary** based on your experience and market standards.
 
 ## Networking and Recruiters
+
 - **Build a strong LinkedIn profile** and actively connect with professionals in your field.
 - Join **LinkedIn groups**, **local job forums**, and **professional communities** to stay updated on job openings.
 - Attend **networking events, tech meetups, and career fairs** to meet potential employers.
@@ -36,6 +42,7 @@
 - **Avoid mass emailing** job applications. Send emails **one by one**, personalizing them for each employer or recruiter.
 
 ## Email Application Best Practices
+
 - **Avoid generic phrases like "Please find my resume attached."**
 - Instead, write a **concise, professional email** introducing yourself.
 - Mention:
@@ -46,7 +53,9 @@
 - Keep the email **brief but impactful**, and always attach your **resume and cover letter**.
 
 ## Beware of Job Scams
+
 ### Common Job Scams in Malaysia:
+
 1. **Fake Job Offers**:
    - If an employer offers a job **without an interview**, it’s likely a scam.
 2. **Upfront Payments**:
@@ -59,26 +68,28 @@
    - Always check if the recruiter is from a legitimate **registered agency**.
 
 ### Example of a Scam:
+
 - A job offer from a **fake company** claims they are hiring you directly with a **high salary** but ask you to pay **RM 3,000 for visa processing**.
 - **Reality**: No genuine company in Malaysia asks for money for work permits or visa processing.
 
 ## Avoiding Spam & Email Etiquette
+
 - **Do not send bulk emails** to multiple employers at once.
 - Customize your email for **each job application**.
 - Avoid using **spammy words** like "Urgent Hiring", "Guaranteed Job", or "100% Placement" in your emails.
-- Use a **professional email address** (e.g., firstname.lastname@gmail.com).
+- Use a **professional email address** (e.g., [firstname.lastname@gmail.com](mailto\:firstname.lastname@gmail.com)).
 - Always **proofread your email** before sending.
 
 ## Best Practices for Job Seekers
+
 - **Apply through trusted job portals**.
 - **Verify companies before accepting job offers**.
 - **Negotiate a fair salary based on Malaysian market rates**.
 - **Avoid any job that asks for payment upfront**.
-- **Connect with professionals on LinkedIn for better opportunities**.
-- **Improve your skills** by taking online courses relevant to your industry.
-- **Be patient** and stay persistent in your job search.
+- **Connect with pcan y**
 
 ## 7. Additional Resources & Video Guides
+
 - Here are some helpful videos related to job searching in Malaysia:
   1. [How to Get a Job in Malaysia from India?](https://www.youtube.com/watch?v=9N8WFffsDmI)
   2. [Top Websites for Job Search in Malaysia](https://www.youtube.com/watch?v=IbvhXdYWR_Q)
@@ -87,6 +98,8 @@
   5. [How to Apply for Jobs in Malaysia?](https://www.youtube.com/watch?v=Ow8cI0gh6Ow)
   6. [Mistakes to Avoid While Applying for Jobs in Malaysia](https://www.youtube.com/watch?v=UM3-xRjF9ew)
   7. [Malaysia Employment Pass Explained](https://www.youtube.com/watch?v=z1fG8RicEZw)
+
+
 
 ---
 ### 🌟 Stay Connected & Support Us!
