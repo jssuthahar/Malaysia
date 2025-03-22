@@ -1,5 +1,10 @@
 # Driving in Malaysia as a Tourist
 
+![Driving License](https://github.com/jssuthahar/Malaysia/blob/main/Driving%20Licence/Driving.png)
+
+## Disclaimer
+This article is based on my personal experience and information gathered from various online sources. Always refer to official websites and authoritative sources for the most accurate and up-to-date information. I have included references to the sources I used while researching this topic.
+
 ## Overview
 As a tourist, you are allowed to drive in Malaysia for a short visit (up to **90 days**) using a valid driving license from your home country. However, there are specific conditions to be aware of.
 
