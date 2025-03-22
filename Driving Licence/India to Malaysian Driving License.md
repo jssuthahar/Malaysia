@@ -1,3 +1,5 @@
+![](https://github.com/jssuthahar/Malaysia/blob/main/Driving%20Licence/How%20to%20Get%20a%20Malaysian%20Driving%20License.png)
+
 **A Comprehensive Guide to Obtaining a Malaysian Driving License**
 
 ## Additional Resources
