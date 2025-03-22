@@ -26,6 +26,13 @@ This information is based on the **Road Transport Act 1987 (Section 28)**, which
 - Ensure your license is **valid** for the entire duration of your stay.
 - Follow local traffic laws to avoid fines or penalties.
 
+## Reference Videos
+For more information, watch these videos:
+- [Driving in Malaysia - Important Rules & Tips](https://www.youtube.com/watch?v=xCzJ5BRGiAI)
+- [Do You Need an International Driving License?](https://www.youtube.com/watch?v=vs1qBNFr11Q)
+- [Malaysia Driving Laws for Tourists](https://www.youtube.com/watch?v=tckZbNDNtyU)
+- [Renting a Car in Malaysia - What You Need to Know](https://www.youtube.com/watch?v=OTLgYxSpHY4)
+
 ## Conclusion
 For short visits, an **International Driving Permit (IDP) is not mandatory** if you have a valid English driving license. However, having an IDP can help avoid any misunderstandings with authorities or rental agencies.
 
