@@ -591,7 +591,8 @@ As the Balinese saying goes, "Bali Dwipa Jaya" - "Glorious Bali Island" - a fitt
 ## Support
 If you found this guide useful, please **Star** and **Follow** this repository on GitHub!
 
-[![Watch the video](https://img.youtube.com/vi/x9ZoZX85tOg/0.jpg)](https://www.youtube.com/watch?v=x9ZoZX85tOg)
+[![Watch the video](https://img.youtube.com/vi/M95lmzEAkLU/0.jpg)](https://www.youtube.com/watch?v=M95lmzEAkLU)
+
 
 ### 🌟 Stay Connected & Support Us!
 
