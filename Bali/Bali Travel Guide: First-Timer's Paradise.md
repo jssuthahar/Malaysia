@@ -1,6 +1,6 @@
 # Bali Travel Guide: First-Timer's Paradise
 
-![Bali Banner Image](https://via.placeholder.com/800x400?text=Beautiful+Bali)
+![Bali Banner Image](https://github.com/jssuthahar/Malaysia/blob/main/Bali/Bali%20Trip.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
