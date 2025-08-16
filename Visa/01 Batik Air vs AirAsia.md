@@ -82,7 +82,6 @@ This document summarizes all key points discussed regarding Batik Air and AirAsi
 - Batik Air: More legroom, meals & baggage included, but frequent delays.  
 - AirAsia: Cheaper upfront, but cramped seating & extras cost more.  
 - For **KL → Trichy**, Batik Air is more comfortable, but expect possible delays.  
-"""
 
 ### 🔔 Stay Updated with My Latest Projects
 
